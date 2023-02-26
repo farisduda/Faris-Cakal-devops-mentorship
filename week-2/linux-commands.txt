@@ -14,3 +14,6 @@ cat .file2
 find / -type f -user bandit7 -group bandit 6 -size33c
 cd /var/liv/dpkg/info/
 cat bandit7.password
+find / -type f data.txt 
+grep -w millionth data.txt 
+sort data.txt | uniq -u "for the unique output"
