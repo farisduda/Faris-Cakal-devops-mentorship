@@ -17,3 +17,5 @@ cat bandit7.password
 find / -type f data.txt 
 grep -w millionth data.txt 
 sort data.txt | uniq -u "for the unique output"
+strings data.txt | grep ====== "looking for strings in data.txt which containc at the start equal characters"
+base64 -d data.txt "decode the base64 data in the file data.txt"
