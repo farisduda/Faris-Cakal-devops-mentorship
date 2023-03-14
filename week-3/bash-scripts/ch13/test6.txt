@@ -1,0 +1,15 @@
+#!/bin/bash
+# prodji kroz sve file-ove u direktoriju faris-cakal-week-3
+
+for file in /home/centos/faris-cakal-week-3/*
+do
+if [ -d "$file" ]
+then
+echo "$file is a directory"
+elif [ -f "$file" ]
+then
+echo "$file is a file"
+fi
+done
+
+

@@ -1,0 +1,10 @@
+#!/bin/bash
+# koristiti varijablu za držanje popisa
+
+list="BiH Hrvatska Srbija Slovenija"
+list=$list" Makedonija"
+for state in $list
+do
+
+echo "Have you ever visited $state?"
+done

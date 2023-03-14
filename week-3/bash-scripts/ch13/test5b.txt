@@ -1,0 +1,13 @@
+#!/bin/bash
+# čitanje vrijednosti iz file-a
+
+file="gradovi"
+
+IFS=$'\n'
+
+for state in $(cat $file)
+do
+   echo "Visit beautiful $state"
+done
+
+

@@ -1,0 +1,9 @@
+#!/bin/bash
+
+#osnovna for komanda
+
+
+for test in Sarajevo Mostar Zenica Tuzla Banja Luka
+do
+echo The next state is $test
+done

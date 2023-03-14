@@ -1,0 +1,7 @@
+#!/bin/bash
+#primjer kako na pravi način definisati vrijednosti
+
+for test in Sarajevo "New York" "Banj Luka"
+do
+echo "Now going to $test"
+done
