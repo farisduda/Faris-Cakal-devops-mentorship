@@ -1,0 +1,6 @@
+#!/bin/bash
+# drugi primjer kako ne koristiti for kommandu
+for test in I don\'t know if "this'll" work
+do
+echo "word:$test"
+done

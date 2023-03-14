@@ -1,0 +1,17 @@
+#!/bin/bash
+# prodji kroz više direktorija
+
+for file in /home/centos/faris-cakal-week-3/.t* /home/centos/faris-cakal-week-3/test200
+do
+    if [ -d "$file" ]
+    then
+       echo "$file is a directory"
+    elif [ -f "$file" ]
+    then
+       echo "$file is a file"
+    else
+       echo "$file doesn't exist"
+    fi
+done
+
+

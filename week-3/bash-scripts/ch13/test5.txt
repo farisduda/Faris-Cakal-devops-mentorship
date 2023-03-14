@@ -1,0 +1,11 @@
+#!/bin/bash
+# čitanje vrijednosti iz file-a
+
+file="gradovi"
+
+for state in $(cat $file)
+do
+   echo "Visit beautiful $state"
+done
+
+

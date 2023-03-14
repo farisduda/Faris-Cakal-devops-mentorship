@@ -1,0 +1,7 @@
+##!/bin/bash
+# drugi primjer kako ne koristiti for kommandu
+
+for test in Sarajevo New York Banja Luka
+do
+echo "Now going to $test"
+done

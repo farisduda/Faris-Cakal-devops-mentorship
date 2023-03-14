@@ -1,0 +1,7 @@
+#!/bin/bash
+#drugi primjer kako koristiti for komandu
+
+for test in I don't know if this'll work
+do
+echo "word:$test"
+done
