@@ -117,3 +117,4 @@ openssl s_client -showcerts -connect faris-cakal.awsbosnia.com:443
 openssl s_client faris-cakal.awsbosnia.com:443 | openssl x509 -noout -dates
 
 Nakon provjere certifikata uspješno se load-ovala i stranica sa node js aplikacijom i vidljiv je validan cert izdan od strane Amazon-a kroz AWS Certificate Manager.
+Kreirao AMI image od korištene instance i terminirao resurse.
