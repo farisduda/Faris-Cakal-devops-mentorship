@@ -68,7 +68,7 @@ Sada konfigurišemo Route 53 kroz CLI
 
 aws route53 change-resource-record-sets --hosted-zone-id Z3LHP8UIUC8CDK --change-batch '{"Changes":[{"Action":"CREATE","ResourceRecordSet":{"Name":"www.faris-cakal.awsbosnia.com","Type":"CNAME","TTL":60,"ResourceRecords":[{"Value":"https://d2f94zgsryq3ut.cloudfront.net"}]}}]}'
 
-Slika 9 -
+Slika 9 - encrypted R53 web
 
 S3 website endpoint - non-encrypted
 http://faris-cakal-devops-mentorship-program-week-11.s3-website.eu-central-1.amazonaws.com
