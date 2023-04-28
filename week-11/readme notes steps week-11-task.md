@@ -44,7 +44,7 @@ aws route53 change-resource-record-sets --hosted-zone-id Z3LHP8UIUC8CDK --change
 
 Slika 5-pending validation ACM cert
 
-Ukoliko se javi greska da nemamo potrebne permisije, potrebno je odraditi aws configure u terminalu, na nacin da se unesu Public i Secret keys iz TASK - 8 exel file ( AKIA4POF75UIR2DRAUEJ,UjgyFvnA3hq7IL5SVCHHpsPJDNWq8H1uG4gjJEhh) a region postaviti na us-east-1
+Ukoliko se javi greska da nemamo potrebne permisije, potrebno je odraditi aws configure u terminalu, na nacin da se unesu Public i Secret keys iz TASK - 8 exel file od Dženana, a region postaviti na us-east-1
 
 Slika 6 Issued cert ACM in us east 1
 
