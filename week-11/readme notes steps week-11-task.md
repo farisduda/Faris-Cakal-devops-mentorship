@@ -1,12 +1,12 @@
-Prvi dio zadatka kreirati s3 bucket kao statički web hosting i objaviti našu web stranicu.
+Prvi dio zadatka kreirati s3 bucket kao statički web hosting i objaviti svoju web stranicu.
 
 Bucket name - faris-cakal-devops-mentorship-program-week-11
 AWS Region - izaberete region u kojem zelite kreirati S3 bucket - eu-central-1
 Object ownership - ostaviti kako jeste ALS disabled
 Block all public access - uncheck kako bi bucket bio public i u warning prompt-u kliknuti na I acknowledge
 Bucket versioning - ostaviti Disable
-DODATI TAGOVE-dodao tag CreatedBy
-ostalo ostaviti defaultne postavke
+Dodati tag-dodao tag CreatedBy
+Ostalo ostaviti defaultne postavke
 Create bucket
 Kliknuti na kreirani S3 bucket
 Upload -> Add files i dodamo index.html, error.html i image za mentorship koje smo prethodno kreirali
