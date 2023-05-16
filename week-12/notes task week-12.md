@@ -23,9 +23,14 @@ Event Router has what's known as an event bus and you can think of this like a c
 Event-Driven Architecture-summary:
 
 -No constant running or waiting for things.
+
 -Producers generate events when something happens.
+
 -Clicks, errors, criteria met, uploads, actions - all generate event.
+
 -Events are delivered to consumers.
+
 -After that actions are taken & the system returns to waiting.
+
 -Mature event-driven architecture only consumes resources while handling events (serverless).
 
