@@ -19,3 +19,13 @@ Event-Driven Architectures are just a collection of events producers which might
 
 Best practice Event-Driven Architectures have what's called an Event Router - a highly available, central exchange point for events.
 Event Router has what's known as an event bus and you can think of this like a constant flow of information and it routes information from producer to consumer.
+
+Event-Driven Architecture-summary:
+
+-No constant running or waiting for things.
+-Producers generate events when something happens.
+-Clicks, errors, criteria met, uploads, actions - all generate event.
+-Events are delivered to consumers.
+-After that actions are taken & the system returns to waiting.
+-Mature event-driven architecture only consumes resources while handling events (serverless).
+
