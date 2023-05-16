@@ -18,4 +18,4 @@ The microservice architecture is a collection of microservices - that do individ
 Event-Driven Architectures are just a collection of events producers which might be components of your application which directly interact with customers or they might be parts of your infrastructure such as EC2, or they might be systems monitoring components.
 
 Best practice Event-Driven Architectures have what's called an Event Router - a highly available, central exchange point for events.
-Event Router has what's known as an event bus and you can think of this like a constant flow of information and it routes informaton from producer to consumer.
+Event Router has what's known as an event bus and you can think of this like a constant flow of information and it routes information from producer to consumer.
