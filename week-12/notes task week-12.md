@@ -13,5 +13,4 @@ Using a queue architecture by placing a queue in between two applications tiers,
 
 By using the queue architecture, no communication happens directly. The components are decoupled, the components can scale independently and freely and in this case the processing tier which uses a worker-fleet architecture, it can scale anywhere from zero to a near infinite number. Using Auto scalling group number of instances for processing jobs increase or decrease depends on jobs stacked in queues.
 
-- 
 
