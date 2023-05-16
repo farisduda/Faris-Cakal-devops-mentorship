@@ -13,4 +13,5 @@ Using a queue architecture by placing a queue in between two applications tiers,
 
 By using the queue architecture, no communication happens directly. The components are decoupled, the components can scale independently and freely and in this case the processing tier which uses a worker-fleet architecture, it can scale anywhere from zero to a near infinite number. Using Auto scalling group number of instances for processing jobs increase or decrease depends on jobs stacked in queues.
 
-
+The microservice architecture is a collection of microservices - that do individual things very well, for example - process, upload, store and manage microservices.
+Event-Driven Architectures are just a collection of events producers which might be components of your application which directly interact with customers or they might be parts of your infrastructure such as EC2, or they might be systems monitoring components.
