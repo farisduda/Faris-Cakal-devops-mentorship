@@ -34,3 +34,19 @@ Event-Driven Architecture-summary:
 
 -Mature event-driven architecture only consumes resources while handling events (serverless).
 
+3 AWS LAMBDA - PART 1
+
+Lambda is a FaaS (Function-as-a-Service) - short running and focused.
+
+Lambda function - a piece of code lambda runs.
+
+Functions use a runtime (example - Python 3.8)
+
+Functions are loaded and run in a runtime environment.
+
+The environment has a direct memory (indirect CPU) allocation.
+
+You are billed for the duration that a function runs.
+
+A key part of Serverless architectures.
+
