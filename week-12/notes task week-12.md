@@ -131,6 +131,10 @@ EC2 Instance Start
 ![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/99c6b18a-07a1-4b4e-98a1-3d6f6e62df88)
 ![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/6a723ea7-6120-48bc-993f-f343e447aac2)
 
+EC2 Protect
+
+
+
 
 
 
