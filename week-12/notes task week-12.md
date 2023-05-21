@@ -241,6 +241,10 @@ Creating REST API with resources:
 Creating a Method and a POST Method in this API Gateway:
 ![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/a96a565f-1614-4ad8-98ae-3696e405afc1)
 
+After deploying our API in the next screen at the top of the screen will be an Invoke URL .. note this down somewhere safe, you will need it in the next STAGE.
+This URL will be used by the client side component of the serverless application and this will be unique to as.
+![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/de1b6665-492c-4e03-8f25-eda89c16eefd)
+
 
 
 
