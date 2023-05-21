@@ -138,13 +138,21 @@ EC2 Protect
 Creating Event Bridge rule to protect stopping instance 1
 ![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/41331b7e-2f17-483f-8025-0516557acd07)
 
-Stopping instance 2 which is not protected by Evnt Bridge rule:
+Stopping instance 2 which is not protected by Event Bridge rule:
 
 ![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/c6c402a3-36c8-4dde-8489-28ed5936b2af)
 ![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/0abe5b18-7361-4ff0-b980-da5431604a3f)
 It will remain in that state till we manually start it.
 
 Stopping Instance 1 which we protect by Event Bridge rule and we will see what we will get as outcome.
+![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/a8a135a8-a09d-4eee-aadc-063f81bf6b73)
+![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/326a416f-7382-414f-8ed5-c9578b7a9a6d)
+![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/87db916b-d509-4c42-99a0-1aac7d99ff80)
+![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/150af3ff-9348-40fc-9dba-42f0a0528c9c)
+![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/665c266b-287c-447d-b6df-9e22c095159f)
+
+
+
 
 
 
