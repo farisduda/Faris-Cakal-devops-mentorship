@@ -150,6 +150,11 @@ Stopping Instance 1 which we protect by Event Bridge rule and we will see what w
 ![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/87db916b-d509-4c42-99a0-1aac7d99ff80)
 ![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/150af3ff-9348-40fc-9dba-42f0a0528c9c)
 ![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/665c266b-287c-447d-b6df-9e22c095159f)
+![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/30661980-d153-4515-aef2-ccf261cdaec2)
+
+Cloud watch logs for Log Group EC2Protect where we can see all log events for that group.
+
+![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/839e614f-ac81-424e-8639-e0b88fd01221)
 
 
 
