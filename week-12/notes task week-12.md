@@ -297,7 +297,9 @@ This lesson reviews the differences between Standard SQS Queues and First-In-Fir
 ![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/495e03fa-b800-4286-91b1-e22ded02a370)
 
 20 SQS Delay Queues
-Delay queues provide an initial period of invisibility for messages. Predefine periods can ensure that processing of messages doesn't begin until this period has expired.
+
+Delay queues provide an initial period of invisibility for messages. 
+Predefine periods can ensure that processing of messages doesn't begin until this period has expired.
 Delay queues at high level alloew you to postpone delivery of messages to comsumers.
 
 
