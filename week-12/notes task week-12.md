@@ -257,7 +257,9 @@ Enabling static web hosting on this bucket:
 Adding files to the S3 bucket:
 ![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/a1781bc8-db88-48b1-897d-ae3ff8b228ff)
 
-![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/4abf382d-19cf-4211-8e86-77e9fa843509)
+Testing the APP :
+![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/64847435-e9ed-40d7-a41e-60020e043011)
+
 
 
 
