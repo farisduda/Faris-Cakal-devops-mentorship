@@ -156,6 +156,16 @@ Cloud watch logs for Log Group EC2Protect where we can see all log events for th
 
 ![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/839e614f-ac81-424e-8639-e0b88fd01221)
 
+Now we are going to manually start Instance 2 and create Event Bridge scheduled rule named EC2Stop:
+
+![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/f64df2ad-3793-4518-b56d-6f33bff01936)
+![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/f31e378d-1ceb-4852-9d6f-b9b0a68d9c4b)
+![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/1640afd9-195d-447b-bc7a-d73df8a25f80)
+![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/f7a0bd31-8b14-447b-8d53-65f007f02329)
+![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/1960f697-f98f-4c4c-a0ad-e21cd62e8795)
+![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/d1c611ab-8079-4f9a-9ad1-c6171f85eee8)
+![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/fe00776f-cbcd-4d78-a808-def451e85fbd)
+
 
 
 
