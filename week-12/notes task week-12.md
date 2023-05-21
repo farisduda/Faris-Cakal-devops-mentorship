@@ -216,6 +216,17 @@ Using stack linked with Cloud Formation template for creating IAM role which wil
 ![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/6a5270a9-aa8b-4645-809b-64d8715b9d81)
 ![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/f1d17119-d9c5-4165-9de7-3028d8d1ec6c)
 
+Here it is:
+![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/80091b91-d35c-45b7-8546-33d39fe4f3c4)
+
+Now lets create Lambda fucntion email reminder.
+![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/ada4a1b7-4152-4959-b419-82368b436ee0)
+![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/042fa934-69c5-4f23-bbed-2b243f3eff17)
+
+
+
+
+
 
 
 
