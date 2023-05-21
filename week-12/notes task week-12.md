@@ -265,6 +265,8 @@ Execution input/output:
 ![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/17ccc602-cc29-47ad-a457-989df3487200)
 CloudWatch logs of the execution steps of this step function:
 ![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/ced22776-b5e5-48c0-b784-0c61fb5ceb1c)
+Whiskers is commanding me to come home:
+![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/49f22f2c-b178-4bc7-9559-2220f5ca1b66)
 
 
 
