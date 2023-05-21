@@ -236,6 +236,13 @@ Creating lambda function which will support the API Gateway:
 ![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/747b2e20-72b8-4676-945b-074f0aba6ae1)
 ![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/8cb6080c-14d9-4093-af2a-99692a67d171)
 
+Creating REST API with resources:
+![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/8b015364-da7e-4e25-9712-81723d8d51bd)
+Creating a Method and a POST Method in this API Gateway:
+![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/a96a565f-1614-4ad8-98ae-3696e405afc1)
+
+
+
 
 
 
