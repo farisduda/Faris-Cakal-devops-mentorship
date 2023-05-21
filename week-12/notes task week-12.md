@@ -132,6 +132,12 @@ EC2 Instance Start
 ![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/6a723ea7-6120-48bc-993f-f343e447aac2)
 
 EC2 Protect
+![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/482f5524-4f6d-4834-852b-d54b386d6220)
+![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/67f78654-2d36-4054-98ec-cb8ca41697c4)
+
+Creating Event Bridge rule
+![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/41331b7e-2f17-483f-8025-0516557acd07)
+
 
 
 
