@@ -263,8 +263,9 @@ Step function executin flow:
 ![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/95b6c3a9-37bd-4dcb-b0c8-a9536dd2ff73)
 Execution input/output:
 ![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/17ccc602-cc29-47ad-a457-989df3487200)
-CloudWatch logs of the execution of this step function:
+CloudWatch logs of the execution steps of this step function:
 ![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/ced22776-b5e5-48c0-b784-0c61fb5ceb1c)
+
 
 
 
