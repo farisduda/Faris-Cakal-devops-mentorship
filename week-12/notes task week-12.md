@@ -169,6 +169,20 @@ Now we are going to manually start Instance 2 and create Event Bridge scheduled 
 Here at the end we can see that this scheduled Event Bridge rule for stopping instances will trigger lambda fucntion to start stopping both instances. 
 But with another event Bridge rule EC2Protect which we have previously created instance 1 is protected and it will return to state running.
 
+8 Serverless Architecture
+
+9 Simple Notification Service
+
+10 Step Functions
+
+11 API Gateway 101
+
+API Gateway is a managed service from AWS which allows the creation of API Endpoints, Resources & Methods.
+The API gateway integrates with other AWS services - and can even access some without the need for dedicated compute.
+It serves as a core component of many serverless architectures using Lambda as event-driven and on-demand backing for methods.
+
+12 Pet-Cuddle-o-Tron PART1
+
 
 
 
