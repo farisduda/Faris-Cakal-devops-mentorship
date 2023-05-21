@@ -171,9 +171,20 @@ But with another event Bridge rule EC2Protect which we have previously created i
 
 8 Serverless Architecture
 
+The Serverless architecture is a evolution/combination of other popular architectures such as event-driven and microservices.
+
+It aims to use 3rd party services where possible and FAAS products for any on-demand computing needs.
+
+Using a serverless architecture means little to no base costs for an environment - and any cost incurred during operations scale in a way with matches the incoming load.
+
 9 Simple Notification Service
 
+The Simple Notification Service or SNS .. is a Publishers/Subscribers style notification system which is used within AWS products and services but can also form an essential part of serverless, event-driven and traditional application architectures.
+Publishers send messages to TOPICS
+Subscribers receive messages SENT to TOPICS.
+
 10 Step Functions
+Step functions is a product which lets you build long running serverless workflow based applications within AWS which integrate with many AWS services such as Lambda function or using step funstions to create State Machines.
 
 11 API Gateway 101
 
