@@ -245,6 +245,18 @@ After deploying our API in the next screen at the top of the screen will be an I
 This URL will be used by the client side component of the serverless application and this will be unique to as.
 ![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/de1b6665-492c-4e03-8f25-eda89c16eefd)
 
+16 Pet-Cuddle-o-Tron Part5
+
+Create S3 bucket:
+![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/1a4ad5c1-71ea-419f-bdc7-0e4387addc70)
+
+Editing bucket policy:
+![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/d1fbbcf0-c9cb-48f9-afde-665b56bc8656)
+Enabling ststic web hosting on thi sbucket:
+![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/5ea3e9ba-18b6-4f0a-8e1d-1fe2eea701c5)
+Adding files to the S3 bucket:
+
+
 
 
 
