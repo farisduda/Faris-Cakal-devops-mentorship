@@ -135,12 +135,16 @@ EC2 Protect
 ![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/482f5524-4f6d-4834-852b-d54b386d6220)
 ![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/67f78654-2d36-4054-98ec-cb8ca41697c4)
 
-Creating Event Bridge rule
+Creating Event Bridge rule to protect stopping instance 1
 ![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/41331b7e-2f17-483f-8025-0516557acd07)
 
-Stopping instance 2
+Stopping instance 2 which is not protected by Evnt Bridge rule:
+
 ![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/c6c402a3-36c8-4dde-8489-28ed5936b2af)
 ![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/0abe5b18-7361-4ff0-b980-da5431604a3f)
+It will remain in that state till we manually start it.
+
+Stopping Instance 1 which we protect by Event Bridge rule and we will see what we will get as outcome.
 
 
 
