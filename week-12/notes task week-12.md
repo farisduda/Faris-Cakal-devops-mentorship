@@ -232,6 +232,10 @@ Creating role for the State Machine by using CloudFormation stack:
 Created State machine :
 ![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/e04fb436-021f-42d6-9a5a-5cf4ad7b759e)
 
+Creating lambda function which will support the API Gateway:
+![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/747b2e20-72b8-4676-945b-074f0aba6ae1)
+![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/8cb6080c-14d9-4093-af2a-99692a67d171)
+
 
 
 
