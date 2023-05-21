@@ -120,7 +120,7 @@ I reproduced this scenario on my AWS account, find the screenshots below:
 ![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/ba0fceb2-4eea-4c80-ba6a-a8d727ce1763)
 
 EC2 Instance Stop
-![image](https://github.com/farisduda/Faris-Cakal-devops-mentorsartp/assets/39408064/a3b5eff9-8b12-41b1-9876-48cc1682a1c1)
+![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/0cb2e33f-d723-40da-a636-181c930e0628)
 ![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/375063a5-b39c-4557-8044-fa93d3fe0ca3)
 ![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/6c1ec036-1ad5-406f-9859-88e51848901f)
 
