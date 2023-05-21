@@ -252,9 +252,13 @@ Create S3 bucket:
 
 Editing bucket policy:
 ![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/d1fbbcf0-c9cb-48f9-afde-665b56bc8656)
-Enabling ststic web hosting on thi sbucket:
+Enabling static web hosting on this bucket:
 ![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/5ea3e9ba-18b6-4f0a-8e1d-1fe2eea701c5)
 Adding files to the S3 bucket:
+![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/a1781bc8-db88-48b1-897d-ae3ff8b228ff)
+
+![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/4abf382d-19cf-4211-8e86-77e9fa843509)
+
 
 
 
