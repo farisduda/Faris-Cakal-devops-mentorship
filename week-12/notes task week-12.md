@@ -115,6 +115,8 @@ Both services are one way how event driven architectures can be implemented with
 I reproduced this scenario on my AWS account, find the screenshots below:
 
 ![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/1ba6fcd2-9195-422e-aae0-8fa1ea16efec)
+![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/c6f36ed8-c5b4-442a-bf46-b0514b279d17)
+![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/048fc6d3-ecbe-4e8f-aa3f-07497da82921)
 
 
 
