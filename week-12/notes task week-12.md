@@ -166,6 +166,10 @@ Now we are going to manually start Instance 2 and create Event Bridge scheduled 
 ![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/d1c611ab-8079-4f9a-9ad1-c6171f85eee8)
 ![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/fe00776f-cbcd-4d78-a808-def451e85fbd)
 
+Here at the end we can see that this scheduled Event Bridge rule for stopping instances will trigger lambda fucntion to start stopping both instances. 
+But with another event Bridge rule EC2Protect which we have previously created instance 1 is protected and it will return to state running.
+
+
 
 
 
