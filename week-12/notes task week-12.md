@@ -110,7 +110,12 @@ They are also the source of scheduled events which can perform certain actions a
 
 Both services are one way how event driven architectures can be implemented within AWS.
 
-7 Automated EC2 Control using Lambda and Events - DEMO
+7 Automated EC2 Control using Lambda and Events - DEMO screens
+
+I reproduced this scenario on my AWS account, find the screenshots below:
+
+![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/1ba6fcd2-9195-422e-aae0-8fa1ea16efec)
+
 
 
 
