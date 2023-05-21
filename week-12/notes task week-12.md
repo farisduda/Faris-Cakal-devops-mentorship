@@ -223,6 +223,20 @@ Now lets create Lambda fucntion email reminder.
 ![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/ada4a1b7-4152-4959-b419-82368b436ee0)
 ![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/042fa934-69c5-4f23-bbed-2b243f3eff17)
 
+14 Pet-Cuddle-o-Tron PART3
+
+In this part we will be adding State Machine that will be configured to use SES via the Lambda function created earlier.
+
+Creating role for the State Machine by using CloudFormation stack:
+![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/3d97b68b-9b16-444c-b254-a92a7aef085e)
+Created State machine :
+![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/e04fb436-021f-42d6-9a5a-5cf4ad7b759e)
+
+
+
+
+
+
 
 
 
