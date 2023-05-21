@@ -204,6 +204,22 @@ Second email verified as identitiy:
 Both identities:
 ![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/ef09134d-b947-4ade-9a54-d41ba08562ff)
 
+13 Pet-Cuddle-o-Tron PART2
+
+In this Advanced Demo you will be implementing a serverless reminder application.
+The application will load from an S3 bucket and run in browser. 
+Communicating with Lambda and Step functions via an API Gateway Endpoint.
+Using the application you will be able to configure reminders for 'pet cuddles' to be sent using email.
+
+Using stack linked with Cloud Formation template for creating IAM role which will be asumed by Lambda fucntion.
+
+![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/6a5270a9-aa8b-4645-809b-64d8715b9d81)
+![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/f1d17119-d9c5-4165-9de7-3028d8d1ec6c)
+
+
+
+
+
 
 
 
