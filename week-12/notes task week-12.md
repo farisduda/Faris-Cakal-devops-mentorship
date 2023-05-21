@@ -194,6 +194,20 @@ It serves as a core component of many serverless architectures using Lambda as e
 
 12 Pet-Cuddle-o-Tron PART1
 
+The focus of the first part is SES (Simple Email Service) Configuration.
+
+We need 2 different email addresses (where reminders will be sent from and received to).
+First email verifed as identity:
+![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/f00c378a-dac1-4582-a347-fb7faf101bac)
+Second email verified as identitiy:
+![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/a44a77db-59a5-4055-a038-6ac691b420a4)
+Both identities:
+![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/ef09134d-b947-4ade-9a54-d41ba08562ff)
+
+
+
+
+
 
 
 
