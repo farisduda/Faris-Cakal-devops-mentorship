@@ -117,6 +117,11 @@ I reproduced this scenario on my AWS account, find the screenshots below:
 ![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/1ba6fcd2-9195-422e-aae0-8fa1ea16efec)
 ![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/c6f36ed8-c5b4-442a-bf46-b0514b279d17)
 ![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/048fc6d3-ecbe-4e8f-aa3f-07497da82921)
+![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/ba0fceb2-4eea-4c80-ba6a-a8d727ce1763)
+![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/a3b5eff9-8b12-41b1-9876-48cc1682a1c1)
+![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/375063a5-b39c-4557-8044-fa93d3fe0ca3)
+![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/6c1ec036-1ad5-406f-9859-88e51848901f)
+
 
 
 
