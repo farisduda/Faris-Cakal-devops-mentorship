@@ -138,6 +138,13 @@ EC2 Protect
 Creating Event Bridge rule
 ![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/41331b7e-2f17-483f-8025-0516557acd07)
 
+Stopping instance 2
+![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/c6c402a3-36c8-4dde-8489-28ed5936b2af)
+![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/0abe5b18-7361-4ff0-b980-da5431604a3f)
+
+
+
+
 
 
 
