@@ -267,12 +267,38 @@ CloudWatch logs of the execution steps of this step function:
 ![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/ced22776-b5e5-48c0-b784-0c61fb5ceb1c)
 Whiskers is commanding me to come home:
 ![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/49f22f2c-b178-4bc7-9559-2220f5ca1b66)
+
+17 Pet-Cuddle-o-Tron Part6
+
 Deleting the services used for this demo.
 
+18 SQS simple queue service
 
+SQS queues are a managed message queue service in AWS which help to decouple application components, allow Asynchronous messaging or the implementation of worker pools.
+Public, Fully Managed, Highly-Available Queues - Standard or FIFO.
+Messages up to 256KB in size - link to large data.
+Received messages are hidden (VisibilityTimeout).
+... then either reappear (retry) or are explicitly deleted.
+Dead-Letter queues can be used for problem messages.
+ASGs can scale and Lambdas invoke based on queue length.
 
+Differences between Standard and FIFO queues:
+Standard = at-least-once delivery, FIFO = exactly-once delivery, messages in order first-in, first-out.
+FIFO (Performance) 3.000 messages per second with batching, or up to 300 messages per second without.
+Billed based on 'requests'.
+1 request = 1-10 messages up to 64KB total.
+Short (immediate) vs Long (waitTimeSeconds) Polling.
+Encryption at rest (KMS) & in-transit.
+Queue policy.
 
+19 SQS Standard vs FIFO Queues
 
+This lesson reviews the differences between Standard SQS Queues and First-In-First-Out (FIFO) SQS Queues
+![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/495e03fa-b800-4286-91b1-e22ded02a370)
+
+20 SQS Delay Queues
+Delay queues provide an initial period of invisibility for messages. Predefine periods can ensure that processing of messages doesn't begin until this period has expired.
+Delay queues at high level alloew you to postpone delivery of messages to comsumers.
 
 
 
