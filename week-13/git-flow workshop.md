@@ -43,14 +43,34 @@ $ git config --global user.name "farisduda"
 
 $ git config --global user.email faris.duda@gmail.com
 
-Sada konfigurišemo AWS CLI credential helper za upravljanje kredencijalima za konekciju na vaš GiT repo. 
-Credential helper dopušta GiTu da koristi HTTPS i kriptografski potpisanu verziju kredencijala našeg IAM korisnika kada god GiT treba da autenticira sa AWS-om kako bi AWS komunicirao sa repozitorijumima.
+Sada konfigurišemo AWS CLI credential helper za upravljanje kredencijalima za konekciju na vaš Git repo. 
+Credential helper dopušta GiTu da koristi HTTPS i kriptografski potpisanu verziju kredencijala našeg IAM korisnika kada god Git treba da autenticira sa AWS-om kako bi AWS komunicirao sa repozitorijumima.
 Za ovaj dio su nam potrebne sljedeće komande:
 
 git config --global credential.helper '!aws codecommit credential-helper $@'
 
 git config --global credential.UseHttpPath true
 
+Install gitflow
+
+
+"gitflow" je kolekcija Git ekstenzija koja nam pruža high-level repo operacije za gore spomenuti Driessen branching model.
+
+Komande za instalaciju gitflow-a:
+
+
+curl -OL https://raw.github.com/nvie/gitflow/develop/contrib/gitflow-installer.sh
+
+chmod +x gitflow-installer.sh
+
+sudo git config --global url."https://github.com".insteadOf git://github.com
+
+sudo ./gitflow-installer.sh
+
+
+
+
+![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/9221860d-2d90-40c7-9d74-2f8853230b44)
 
 
 
