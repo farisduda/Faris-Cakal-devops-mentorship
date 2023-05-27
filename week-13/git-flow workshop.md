@@ -153,6 +153,20 @@ $ aws cloudformation create-stack --template-body file://appcreate.yaml --stack-
 Kada pokrenemo ovu komandu AWS CloudFormation pocinje kreiranje resursa koji su specificirani u template-u. Nas novi stack gitflow-eb-app se pojavljuje na listi unutar CloudFormation konzole.
 
 
+![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/f8cc6b99-72a2-4ae2-bfe1-a692af2798dd)
+
+
+Takođe imamo i aplikaciju unutar Elastic Beanstalk-a:
+
+
+![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/b65d69ce-ae78-430b-9a17-b470a1ca39d2)
+
+
+
+
+
+
+
 
 
 
