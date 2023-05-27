@@ -93,6 +93,19 @@ git clone https://git-codecommit.us-east-1.amazonaws.com/v1/repos/gitflow-worksh
 ![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/64c71e79-f80d-4dcf-96f4-d23d6b369a56)
 
 
+Stage 2: Download the sample code and commit your code to the repository
+
+
+Downloadujemo jednostavnu aplikacijsku arhivu pomoću komande:
+
+ASSETURL="https://static.us-east-1.prod.workshops.aws/public/442d5fda-58ca-41f0-9fbe-558b6ff4c71a/assets/workshop-assets.zip"; wget -O gitflow.zip "$ASSETURL"
+
+
+
+![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/88648035-90f9-4e2e-b659-86314f76c925)
+
+
+
 
 
 
