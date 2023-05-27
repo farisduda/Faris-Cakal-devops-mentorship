@@ -17,6 +17,7 @@ Sljedeće što trebamo napraviti je da napravimo resize diska jer nam je po defa
 Provjerimo ovo sa komandom: df -h
 
 Dobijemo:
+
 ![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/fc990b84-81cb-4fec-94dd-f224c67c501c)
 
 
