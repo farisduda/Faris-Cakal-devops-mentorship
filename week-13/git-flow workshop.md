@@ -85,10 +85,16 @@ Komande:
 
 aws codecommit create-repository --repository-name gitflow-workshop --repository-description "Repository for Gitflow Workshop"
 
-git clone https://git-codecommit.us-east-1.amazonaws.com/v1/repos/gitflow-workshop
+
+git clone https://git-codecommit.eu-central-1.amazonaws.com/v1/repos/gitflow-workshop
 
 
-![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/a593b6ca-86b5-4e03-a797-81434aae4b33)
+![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/a90cf1b5-16a2-43a6-a087-a8620ae32afc)
+
+
+Potvrda da smo kreirali codecommit repo iz AWS konzole:
+
+
 
 ![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/64c71e79-f80d-4dcf-96f4-d23d6b369a56)
 
@@ -109,11 +115,27 @@ Raspakujemo arhivu u lokalni repo folder:
 
 unzip gitflow.zip -d gitflow-workshop/
 
+
+![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/23407f5d-f053-458f-a196-e98d1848fe15)
+
+
+
+
 Pozicioniramo se u naš lokalni repo folder i pokrenemo git add.
 
 cd gitflow-workshop
 
 git add -A
+
+Pokrenemo 'git commit' da potvrdimo izmjene i pushamo ih u master.
+
+
+git commit -m "Initial Commit"
+
+git push origin master
+
+![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/99105449-997f-4ae1-ae43-c6218c14947f)
+
 
 
 
