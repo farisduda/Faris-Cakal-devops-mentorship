@@ -77,6 +77,22 @@ AWS CloudFormation
 
 U ovom dijelu ćemo koristiti AWS CloudFormation servis da podesimo našu aplikaciju i infrastrukturu. Koristićemo AWS Elastic Beanstalk da pojednostavimo stvari.
 
+Elastic Beanstalk Application.
+
+Stage 1: Create Code Commit Repo
+
+Komande:
+
+aws codecommit create-repository --repository-name gitflow-workshop --repository-description "Repository for Gitflow Workshop"
+
+git clone https://git-codecommit.us-east-1.amazonaws.com/v1/repos/gitflow-workshop
+
+
+![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/a593b6ca-86b5-4e03-a797-81434aae4b33)
+
+![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/64c71e79-f80d-4dcf-96f4-d23d6b369a56)
+
+
 
 
 
