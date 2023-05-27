@@ -72,6 +72,11 @@ sudo ./gitflow-installer.sh
 
 ![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/9221860d-2d90-40c7-9d74-2f8853230b44)
 
+AWS CloudFormation
+
+
+U ovom dijelu ćemo koristiti AWS CloudFormation servis da podesimo našu aplikaciju i infrastrukturu. Koristićemo AWS Elastic Beanstalk da pojednostavimo stvari.
+
 
 
 
