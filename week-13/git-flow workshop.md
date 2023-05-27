@@ -96,13 +96,25 @@ git clone https://git-codecommit.us-east-1.amazonaws.com/v1/repos/gitflow-worksh
 Stage 2: Download the sample code and commit your code to the repository
 
 
-Downloadujemo jednostavnu aplikacijsku arhivu pomoću komande:
+Downloadujemo aplikacijsku arhivu pomoću komande:
 
 ASSETURL="https://static.us-east-1.prod.workshops.aws/public/442d5fda-58ca-41f0-9fbe-558b6ff4c71a/assets/workshop-assets.zip"; wget -O gitflow.zip "$ASSETURL"
 
 
 
 ![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/88648035-90f9-4e2e-b659-86314f76c925)
+
+
+Raspakujemo arhivu u lokalni repo folder:
+
+unzip gitflow.zip -d gitflow-workshop/
+
+Pozicioniramo se u naš lokalni repo folder i pokrenemo git add.
+
+cd gitflow-workshop
+
+git add -A
+
 
 
 
