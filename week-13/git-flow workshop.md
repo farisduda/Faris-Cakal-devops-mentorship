@@ -37,6 +37,24 @@ Nakon ovoga opet provjera sa komandom df -h
 
 Initial setup i AWS CLI Credential Helper
 
+git config komandu koristimo da postavimo Git konfiguraciju.
+
+$ git config --global user.name "farisduda"
+
+$ git config --global user.email faris.duda@gmail.com
+
+Sada konfigurišemo AWS CLI credential helper za upravljanje kredencijalima za konekciju na vaš GiT repo. 
+Credential helper dopušta GiTu da koristi HTTPS i kriptografski potpisanu verziju kredencijala našeg IAM korisnika kada god GiT treba da autenticira sa AWS-om kako bi AWS komunicirao sa repozitorijumima.
+Za ovaj dio su nam potrebne sljedeće komande:
+
+git config --global credential.helper '!aws codecommit credential-helper $@'
+
+git config --global credential.UseHttpPath true
+
+
+
+
+
 
 
 
