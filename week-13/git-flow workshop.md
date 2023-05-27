@@ -20,6 +20,8 @@ Dobijemo:
 
 ![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/fc990b84-81cb-4fec-94dd-f224c67c501c)
 
+Da bi povečali disk potrebno je da kreiramo fajl za skriptu, resize.sh. Unutra ćemo zalijepiti skriptu iz dokumentacije. 
+
 
 
 
