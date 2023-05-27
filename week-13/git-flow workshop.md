@@ -20,7 +20,25 @@ Dobijemo:
 
 ![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/fc990b84-81cb-4fec-94dd-f224c67c501c)
 
-Da bi povečali disk potrebno je da kreiramo fajl za skriptu, resize.sh. Unutra ćemo zalijepiti skriptu iz dokumentacije. 
+Da bi povečali disk potrebno je da kreiramo fajl za skriptu, resize.sh.
+
+![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/875099da-5e81-47e9-a9d7-84b7c4a1663b)
+
+Unutra ćemo zalijepiti bash skriptu iz dokumentacije i spasiti. Skripta se nalazi na mom repo-u na putanji: farisduda/Faris-Cakal-devops-mentorship/blob/week-13/week-13/resize.sh
+
+Pokretanjem ove skripte komandom bash resize.sh 30 povećavamo veličinu volume na 30GiB, što se vidi iz slika ispod.
+
+
+![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/9b472548-386e-4349-aa63-fd63b5195f54)
+
+Nakon ovoga opet provjera sa komandom df -h 
+
+![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/0eaa8c35-e275-4830-b19a-5dfdbeefb545)
+
+
+
+
+
 
 
 
