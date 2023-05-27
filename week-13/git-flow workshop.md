@@ -165,7 +165,7 @@ Takođe imamo i aplikaciju unutar Elastic Beanstalk-a:
 Creating an AWS Elastic Beanstalk Master Environment
 
 Sada kreiramo AWS Elastic Beanstalk Master Environment. 
-Mozemo deploy-ati vise environments ako zelimo da runiramo vise verzija aplikacije. Naprimjer, mozemo imati development, integracijski i produkcijski environment.
+Mozemo deploy-ati vise environments ako zelimo da run-amo vise verzija aplikacije. Naprimjer, mozemo imati development, integracijski i produkcijski environment.
 
 Koristićemo AWS CloudFormation template da set-ujemo EB application i codepipeline da odrade "auto store" nasih artefakata:
 
