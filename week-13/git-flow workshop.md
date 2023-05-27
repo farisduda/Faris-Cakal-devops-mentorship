@@ -15,8 +15,7 @@ Kliknemo na open i otvori nasm se terminal koji može biti kako smo već spomenu
 
 Sljedeće što trebamo napraviti je da napravimo resize diska jer nam je po default-u Cloud9 instanci EBS size volume postavljen na 10 GiB.
 Provjerimo ovo sa komandom  
-```php 
-df-h
+```php    df-h
 
 
 
