@@ -138,7 +138,19 @@ git push origin master
 
 
 
+CREATE ELASTIC BEANSTALK APPLICATION
 
+Da koristimo EB prvo cemo kreirati aplikaciju koja predstavlja nasu aplikaciju unutar AWS-a. 
+U EB-u aplikacija je bukvalno kontejner za environment u kojem runira nasa web aplikacija. 
+Tu se takodjer nalaze verzije web applikacijskog source code-a, konfiguracije, logovi i drugi artefakti koje kreiramo dok koristimo EB.
+
+Pokrenuti cemo template ispod kako bi kreirali EB application i S3 Bucket za artifakte. 
+Bitna napomena - EB aplikaciju mozemo posmatrati kao folder koji sadrzava komponente naseg Elastic Beanstalk-a dok S3 bucket je mjesto gdje cemo postaviti nas aplikacijski code prije deploymenta.
+
+$ aws cloudformation create-stack --template-body file://appcreate.yaml --stack-name gitflow-eb-app
+
+
+Kada pokrenemo ovu komandu AWS CloudFormation pocinje kreiranje resursa koji su specificirani u template-u. Nas novi stack gitflow-eb-app se pojavljuje na listi unutar CloudFormation konzole.
 
 
 
