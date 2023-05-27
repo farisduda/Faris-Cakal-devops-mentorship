@@ -1,6 +1,6 @@
 Pokretanje AWS Cloud9
 
-Unutar AWS Cloud9 kreirao environment sa imenom gitflow-workshop unutra moje regije eu-central-1.
+Unutar AWS Cloud9 kreirao environment sa imenom gitflow-workshop unutar moje regije eu-central-1.
 
 ![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/8ba273ca-ab26-4476-b7b4-b7bfbbdab408)
 
@@ -34,6 +34,10 @@ Pokretanjem ove skripte komandom bash resize.sh 30 povećavamo veličinu volume 
 Nakon ovoga opet provjera sa komandom df -h 
 
 ![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/0eaa8c35-e275-4830-b19a-5dfdbeefb545)
+
+Initial setup i AWS CLI Credential Helper
+
+
 
 
 
