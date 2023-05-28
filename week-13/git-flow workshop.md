@@ -138,6 +138,7 @@ git push origin master
 
 
 
+
 CREATE ELASTIC BEANSTALK APPLICATION
 
 Da koristimo EB prvo cemo kreirati aplikaciju koja predstavlja nasu aplikaciju unutar AWS-a. 
@@ -160,6 +161,22 @@ Takođe imamo i aplikaciju unutar Elastic Beanstalk-a:
 
 
 ![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/b65d69ce-ae78-430b-9a17-b470a1ca39d2)
+
+
+
+Klikom na gitflow aplikaciju pa na domenu dobijemo stranicu :
+
+
+
+![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/bce46173-7b5b-4da8-9f76-346fe142c02d)
+
+
+
+![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/bc1c8be8-c791-4a2f-9d92-6b8cac9a412e)
+
+
+
+
 
 
 Creating an AWS Elastic Beanstalk Master Environment
