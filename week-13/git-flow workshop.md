@@ -210,6 +210,13 @@ AWS CodePipeline je continuous delivery servis kojeg možemo koristiti za modeli
 
 Prethodni cloudformation template je kreirao i konfigurisao jednostavan AWS CodePipeline sa 3 akcije: source, build i deploy.
 
+
+
+![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/710de733-b3f6-4bfe-981b-10fdb2f2913f)
+
+
+
+
 CodePipeline automatizira korake koji su potrebni da se odradi release naseg softvera kontinuirano.
 
 
