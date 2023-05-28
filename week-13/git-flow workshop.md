@@ -174,9 +174,17 @@ aws cloudformation create-stack --template-body file://envcreate.yaml --paramete
 Prije kreiranja environmenta zahvaljujući kolegama koje su ukazali na autdated parametre, setovao sam odgovarajucu verziju linux-a u file-u envcreate.yaml. 
 Takođe prije pokretanja komande sam ručno kreirao IAM rolu aws-elasticbeanstalk-ec2-role. 
 
-Nakon izvršavanja komande uspješno su se kreirali stack-ovi na CloudFromation-u:
+Nakon izvršavanja komande uspješno su se kreirali stack-ovi na CloudFormation-u:
+
 
 ![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/e4fc73df-abbe-48f0-b833-8b34aaa1cc88)
+
+
+Takođe i Elastic Beanstalk master environment:
+
+
+![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/f63929ca-6973-40f0-bc4e-849e018aae12)
+
 
 
 
