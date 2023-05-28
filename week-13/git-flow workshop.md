@@ -171,6 +171,14 @@ Koristićemo AWS CloudFormation template da set-ujemo EB application i codepipel
 
 aws cloudformation create-stack --template-body file://envcreate.yaml --parameters file://parameters.json --capabilities CAPABILITY_IAM --stack-name gitflow-eb-master
 
+Prije kreiranja environmenta zahvaljujući kolegama koje su ukazali na autdated parametre, setovao sam odgovarajucu verziju linux-a u file-u envcreate.yaml. 
+Takođe prije pokretanja komande sam ručno kreirao IAM rolu aws-elasticbeanstalk-ec2-role. 
+
+Nakon izvršavanja komande uspješno su se kreirali stack-ovi na CloudFromation-u:
+
+![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/e4fc73df-abbe-48f0-b833-8b34aaa1cc88)
+
+
 
 
 
