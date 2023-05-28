@@ -186,6 +186,15 @@ Takođe i Elastic Beanstalk master environment:
 ![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/f63929ca-6973-40f0-bc4e-849e018aae12)
 
 
+AWS CodePipeline
+
+
+AWS CodePipeline je continuous delivery servis kojeg možemo koristiti za modeliranje, prikaz, i automatizaciju koraka potrebnih za release našeg softvera. 
+
+Prethodni cloudformation template je kreirao i konfigurisao jednostavan AWS CodePipeline sa 3 akcije: source, build i deploy.
+
+CodePipeline automatizira korake koji su potrebni da se odradi release naseg softvera kontinuirano.
+
 
 
 
