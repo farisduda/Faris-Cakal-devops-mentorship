@@ -221,6 +221,45 @@ CodePipeline automatizira korake koji su potrebni da se odradi release naseg sof
 
 
 
+Create Lambda
+
+Unutar S3 bucketa elasticbeanstalk-eu-central-1-103654481432 potrebno podesiti Default encryption koristeći KMS enkripcijski tip.
+Kopirao ARN enkripijskog ključa koji je dodijeljen u .txt file, i preimenovao sam ga u .elasticbeanstalk.
+Zatim sam ovaj file zipovao u elasticbeanstalk.zip i takvog ga upload-ovao u bucket.
+
+S3Bucket: 'elasticbeanstalk-eu-central-1-103654481432'
+S3Key: '.elasticbeanstalk.zip'
+
+Unutar lambda-create.yaml fajla sam u polje S3Bucket unio naziv bucketa i njegovog ključa: 
+
+S3Bucket: 'elasticbeanstalk-eu-central-1-103654481432'
+S3Key: '.elasticbeanstalk.zip'
+
+Potrebno odraditi na dva mjesta.
+
+Uradio git push na master granu, i pokrenuo komandu za kreiranje lambda funkcije:
+
+
+aws cloudformation create-stack --template-body file://lambda/lambda-create.yaml --stack-name gitflow-workshop-lambda --capabilities CAPABILITY_IAM
+
+
+Dobijemo kreiran stack za Lambda funkcije i dvije funkcije Lambda: create i delete.
+
+
+
+![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/43b21e45-c936-4e4e-97ac-f94c699dd2ea)
+
+
+
+![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/6c9d6c89-39d8-4d75-9a53-18aa7bb9695e)
+
+
+
+
+
+
+
+
 
 
 
