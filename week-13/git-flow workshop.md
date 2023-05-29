@@ -255,6 +255,17 @@ Dobijemo kreiran stack za Lambda funkcije i dvije funkcije Lambda: create i dele
 
 
 
+Create a Trigger in AWS CodeCommit for an Existing AWS Lambda Function
+
+Možemo konfigurisati CodeCommit repozitorij tako da se trigeruju akcije pushanjem koda ili drugim eventima, kao npr. slanjem notifikacija sa Amazon SNS-a ili pozivanjem Lambda funkcija.
+
+Kreirao sam trigere za Create i Delete branch.
+
+
+
+
+
+
 
 
 
