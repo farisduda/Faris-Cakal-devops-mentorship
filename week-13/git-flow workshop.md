@@ -274,6 +274,17 @@ Kada koristimo git-flow extension library, pokretanjem git flow na postojećem r
 ![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/d77a7461-cfd6-42ce-ad0e-cf23f52014de)
 
 
+Manuelano kreiramo Development environment za develop branch, komandom:
+
+aws cloudformation create-stack --template-body file://envcreate.yaml --parameters file://parameters-dev.json --capabilities CAPABILITY_IAM --stack-name gitflow-workshop-develop
+
+
+
+
+![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/31633625-15c5-4c92-b4fe-4c9dd79800ae)
+
+
+
 
 
 
