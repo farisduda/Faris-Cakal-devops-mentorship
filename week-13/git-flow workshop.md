@@ -300,6 +300,11 @@ aws cloudformation create-stack --template-body file://envcreate.yaml --paramete
 CodePipeline za develop:
 
 
+
+![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/589d98a1-0f9f-4dc3-bd79-6b49d6a59573)
+
+
+
 ![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/de7da86d-679b-4bd0-af33-5e33124c977e)
 
 
