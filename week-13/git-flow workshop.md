@@ -285,6 +285,20 @@ aws cloudformation create-stack --template-body file://envcreate.yaml --paramete
 
 
 
+![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/6c6d1ca4-a6cd-4093-bc48-30e7f7d63de5)
+
+
+
+![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/43dcaed8-b8a9-4560-9927-c00bfff232ab)
+
+
+
+
+
+
+
+
+
 
 
 
