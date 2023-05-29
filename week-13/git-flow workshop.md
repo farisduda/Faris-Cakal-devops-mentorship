@@ -265,6 +265,15 @@ Kreirao sam trigere za Create i Delete branch.
 ![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/2d36ec1e-040c-49a6-98bb-ffd629745634)
 
 
+Develop Branch - Create Develop Branch
+
+
+Kada koristimo git-flow extension library, pokretanjem git flow na postojećem repo-u, kreiramo develop branch.
+
+
+
+
+
 
 
 
