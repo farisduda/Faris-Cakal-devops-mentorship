@@ -374,6 +374,29 @@ Sada trebamo ove izmjene push-ati na development granu:
 ![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/ed9b50a2-06c4-4e1a-bdd5-2b747bb46b07)
 
 
+Ovom akcijom smo merge-ali change-color u develop, uklonili smo feature branch i prebacili se nazad u develop branch.
+
+
+
+Sada radimo commit develop brancha:
+
+
+
+![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/b44e2917-7dac-4e71-8cfd-0dd1cf0dce0f)
+
+
+
+Sada kada otvorimo URL preko develop brancha vidimo da su primjenjene promjene (podloga je crvena).
+
+
+
+
+
+
+
+
+
+
 
 
 
