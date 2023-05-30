@@ -386,7 +386,19 @@ Sada radimo commit develop brancha:
 
 
 
+Kako Lambda trigger nije radio automatsko pokretanje CodePipeline-a morao sam uraditi release koji je onda pokrenuo build i deploy.
+
 Sada kada otvorimo URL preko develop brancha vidimo da su primjenjene promjene (podloga je crvena).
+
+
+![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/8839572d-b6c9-45e0-86ee-27444220d117)
+
+
+
+
+
+
+
 
 
 
