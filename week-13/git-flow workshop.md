@@ -338,6 +338,11 @@ aws cloudformation create-stack --template-body file://envcreate.yaml --capabili
 
 
 
+![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/4a2e2a19-754c-49ac-9f82-fb9edade91f4)
+
+
+
+
 
 
 
