@@ -322,7 +322,7 @@ git flow feature start change-color
 ![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/9c336f2c-f1ae-45a8-872d-b1e804f0d163)
 
 
-Unutar index.html fajla sam promijenio body boju u crvenu.
+Unutar index.html fajla sam promijenio background boju u crvenu.
 
 Manuelno kreiran changecolor environment:
 
