@@ -308,6 +308,39 @@ CodePipeline za develop:
 ![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/de7da86d-679b-4bd0-af33-5e33124c977e)
 
 
+Feature Branch - Create Feature Branch
+
+
+Sada ćemo Kreirati feature branch sa kojim ćemo promijeniti boju editovanjem index.html fajla.
+
+Komanda za kreiranje:
+
+git flow feature start change-color
+
+
+
+![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/9c336f2c-f1ae-45a8-872d-b1e804f0d163)
+
+
+Unutar index.html fajla sam promijenio body boju u crvenu.
+
+Manuelno kreiran changecolor environment:
+
+aws cloudformation create-stack --template-body file://envcreate.yaml --capabilities CAPABILITY_IAM --stack-name gitflow-workshop-changecolor --parameters ParameterKey=Environment,ParameterValue=gitflow-workshop-changecolor ParameterKey=RepositoryName,ParameterValue=gitflow-workshop ParameterKey=BranchName,ParameterValue=feature/change-color
+
+
+
+![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/0c3b2979-da05-4de8-bdd6-0fb7a008aac1)
+
+
+
+![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/ac4d251d-efb8-42b0-9490-d3764adcddb0)
+
+
+
+
+
+
 
 
 
