@@ -359,11 +359,20 @@ Environment changecolor:
 
 
 
-Finish:
+Finish changecolor on feature branch:
 
 
 
 ![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/e3de3936-9aba-4a68-8ba9-631e96bb0595)
+
+
+
+
+Sada trebamo ove izmjene push-ati na development granu:
+
+
+![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/ed9b50a2-06c4-4e1a-bdd5-2b747bb46b07)
+
 
 
 
