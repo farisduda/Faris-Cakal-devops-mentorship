@@ -338,7 +338,39 @@ aws cloudformation create-stack --template-body file://envcreate.yaml --capabili
 
 
 
+Push-ao izmjene:
+
+
+
 ![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/4a2e2a19-754c-49ac-9f82-fb9edade91f4)
+
+
+
+CodePipeline changecolor:
+
+
+![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/20788048-49c2-4c12-a00f-0ea4b9b0a40e)
+
+
+Environment changecolor:
+
+
+![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/227a1e81-c4d5-499b-ac4c-6ee17c86e1ed)
+
+
+
+Finish:
+
+
+
+![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/e3de3936-9aba-4a68-8ba9-631e96bb0595)
+
+
+
+
+
+
+
 
 
 
