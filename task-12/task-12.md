@@ -95,6 +95,19 @@ Prvo je potrebno instalirati Terraform na Ubuntu server na kojem sam prethodno i
 Konfiguracijski fajlovi se nalaze u folderu task-12/terraform.
 
 
+Komandom terraform init sam uradio inicijalizaciju konfiguracije:
+
+
+![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/48a1b2c1-e9f0-4ee9-9b21-14fb328c8172)
+
+
+Komandom terraform apply sam izvršio konfiguraciju:
+
+
+
+![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/5d7bdfe8-5a3e-43f6-ba6d-ba81b5b6aba2)
+
+
 
 
 
