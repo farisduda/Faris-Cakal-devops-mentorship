@@ -108,6 +108,11 @@ Komandom terraform apply sam izvršio konfiguraciju:
 ![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/5d7bdfe8-5a3e-43f6-ba6d-ba81b5b6aba2)
 
 
+Resursi su kreirani. Na slici ispod to vidimo kao što vidimo i prethodno kreirane resurse preko CF-a.
+
+
+
+![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/6b6bf024-4857-497e-b387-3b3659bbbeb3)
 
 
 
