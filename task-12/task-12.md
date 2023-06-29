@@ -190,6 +190,31 @@ $ ansible-playbook nginx-playbook.yml
 
 ![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/9690d402-a0b2-4aa9-a875-3d20ef156dd5)
 
+CF Web server:
+
+
+![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/5a43e779-3d87-489f-b621-a26acddb0035)
+
+
+TF Web server:
+
+
+![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/743ed09e-05cb-4467-ba22-0314356fb1dc)
+
+
+
+Also your nginx web server instances needs to have index.html file with content "Hello from nginx web server created using CloudFormation and Ansible Hello from nginx web server created using Terrafrom and Ansible"
+
+
+
+Fajlovi nginx-index-playbook i index.html se nalaze u folderu task-12/ansible i tu se može vidjeti njihov sadržaj.
+
+
+
+
+
+
+
 
 
 
