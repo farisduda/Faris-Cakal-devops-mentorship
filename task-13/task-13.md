@@ -67,6 +67,22 @@ Provjera verzija:
 
 
 
+Use mvn to generate a sample Java web app:
+
+mvn archetype:generate \
+    -DgroupId=com.wildrydes.app \
+    -DartifactId=unicorn-web-project \
+    -DarchetypeArtifactId=maven-archetype-webapp \
+    -DinteractiveMode=false
+
+
+Imamo uspješan build aplikacije:
+
+
+
+
+ ![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/2a1ff7ef-59a5-4387-ae9e-54acf4c7cd70)
+
 
 
 
