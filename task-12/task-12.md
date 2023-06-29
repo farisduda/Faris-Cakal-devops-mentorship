@@ -167,12 +167,8 @@ $ pip install ansible
 
 Fajlovi ansible.cfg, inventory.ini i nginx-playbook.yml se nalaze u folderu task-12/ansible i tu se može vidjeti njihov sadržaj.
 
-
-Neophodno je da .pem fajl ne bude dostupan drugim korisnicima sa serveru, zbog sigurnosnih razloga, pa sam morao promijeniti permisije .pem fajla na način da su dostupni samo mom korisniku (0600 - samo read i write za ownera):
-
-$ chmod 600 rijad-poracanin-web-server-key.pem
-
 Fajl nginx-playbook.yml će instalirati Nginx paket, pokrenuće Nginx servis i omogućiti da bude startan i prilikom startanja servera. 
+
 
 Ovaj playbook sam pokrenuo komandom:
 
