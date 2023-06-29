@@ -162,6 +162,12 @@ $ pip install ansible
 
 ![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/f1e8d041-6ce5-4203-9f54-857c9fb38a0f)
 
+Ansible verzija:
+
+
+
+![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/4efc4aa5-1c01-4ab9-b6e6-1375e97beb0d)
+
 
 
 
