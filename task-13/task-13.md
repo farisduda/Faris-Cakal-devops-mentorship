@@ -59,6 +59,11 @@ export JAVA_HOME=/usr/lib/jvm/java-1.8.0-amazon-corretto.x86_64
 
 export PATH=/usr/lib/jvm/java-1.8.0-amazon-corretto.x86_64/jre/bin/:$PATH
 
+Provjera verzija:
+
+
+
+![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/a65f3cba-c49a-4b89-8582-a479857c385e)
 
 
 
