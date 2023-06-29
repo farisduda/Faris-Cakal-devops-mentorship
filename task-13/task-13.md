@@ -40,6 +40,10 @@ sudo yum install -y apache-maven
 ![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/2a2112a5-f73f-44f0-a27e-6f6c07799431)
 
 
+Maven comes with Java 7. For the build image that we're going to use later on we will need to use at least Java 8. 
+Therefore we are going to install Java 8, or more specifically Amazon Correto 8 , which is a free, production-ready distribution of the Open Java Development Kit (OpenJDK) provided by Amazon:
+
+
 
 
 
