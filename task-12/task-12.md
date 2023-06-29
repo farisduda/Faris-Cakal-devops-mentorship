@@ -10,7 +10,7 @@ Instalacija Packer-a na Ubuntu server koji sam prethodno podigao kroz Cloud9 ser
 
 ![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/2216fce9-9c9a-4a01-96a1-cf698144114b)
 
-Kreirane scripte i packer.json file. File-ovi se nalaze u folderu task-12/Packer.
+Kreirane scripte i packer.json file. Konfiguracijski fajlovi se nalaze u folderu task-12/packer.
 
 Nakon ovoga pokrenuta komanda u packer folderu:
 
@@ -45,12 +45,12 @@ Tags :
 ![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/deaacaf6-f489-437e-a30b-d855d7ff0bc8)
 
 
-2.) Cloud Formation
+2.) CloudFormation
 
 [IaC - CloudFormation] Using an AMI image from step 1 create 2 new EC2 instances called task-12-web-server-cf and task-12-db-server-cf. For those instances create appropriate security groups and open needed ports. Please try to follow best practices for security groups. You can put your resources inside default VPC and public subnets.
 
 
-Template u YAML formatu cf_template kojeg sam kreirao se nalazi u folderu task-12/CF. U njemu sam konfigurisao da se kreiraju resursi: 2 EC2 instance (webserver i dbserver) iz AMI image-a kojeg sam kreirao u prvom dijelu zadatka preko Packer-a, i takođe dvije Security grupe za ta dva servera.
+Template u YAML formatu cf_template kojeg sam kreirao se nalazi u folderu task-12/cf. U njemu sam konfigurisao da se kreiraju resursi: 2 EC2 instance (webserver i dbserver) iz AMI image-a kojeg sam kreirao u prvom dijelu zadatka preko Packer-a, i takođe dvije Security grupe za ta dva servera.
 Kroz AWS CloudFormation sam učitao ovaj template i kreiran je stack.
 
 
@@ -78,6 +78,25 @@ CF Stack:
 
 
 ![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/73481e97-3c42-468a-a5bb-6def5a6f16e4)
+
+
+
+3.) TERRAFORM
+
+[IaC - Terraform] Using an AMI image from step 1 create 2 new EC2 instances called task-12-web-server-tf and task-12-db-server-tf. For those instances create appropriate security groups and open needed ports. Please try to follow best practices for security groups. You can put your resources inside default VPC and public subnets.
+
+
+Prvo je potrebno instalirati Terraform na Ubuntu server na kojem sam prethodno instalirao i Packer. Isti server koristim za ovaj dio zadatka.
+
+![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/a148fdcd-391d-41a9-8e36-419378750f6b)
+
+
+
+Konfiguracijski fajlovi se nalaze u folderu task-12/terraform.
+
+
+
+
 
 
 
