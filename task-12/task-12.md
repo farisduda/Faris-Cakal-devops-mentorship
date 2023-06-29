@@ -126,8 +126,34 @@ Security grupe:
 
 
 
+4.) ANSIBLE
+
+Installing Ansible
 
 
+Najprije trebamo sa sljedećom komandom da provjerimo da li je pip već instaliran za naš Python:
+
+$ python3 -m pip -V
+
+
+Dobio sam sljedeći output:
+
+pip 9.0.1 from /usr/lib/python3/dist-packages (python 3.6)
+
+
+Pošto je ovo starija verzija, trebamo upgradovati pip na noviju verziju, a zatim instalirati ansible:
+
+
+$ pip install --upgrade pip
+
+$ pip install ansible
+
+
+![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/781fc74a-d534-4648-919f-e2ca4a26b610)
+
+
+
+![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/f1e8d041-6ce5-4203-9f54-857c9fb38a0f)
 
 
 
