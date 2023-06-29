@@ -210,6 +210,25 @@ Also your nginx web server instances needs to have index.html file with content 
 Fajlovi nginx-index-playbook i index.html se nalaze u folderu task-12/ansible i tu se može vidjeti njihov sadržaj.
 
 
+Komanda : ansible-playbook nginx-index-playbook.yml
+
+
+
+
+![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/c3fd2699-0163-4452-b6a2-ad3cf755d32f)
+
+
+Te sada imamo na webu naš osnovni index.html deploy-an na obadvije web instance:
+
+
+![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/ced542fc-1a43-4ca9-9a7f-7e7a4ff99fc7)
+
+
+
+
+![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/1be4f34a-b6f4-4135-8b70-bd8e46d39167)
+
+
 
 
 
