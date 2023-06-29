@@ -111,18 +111,21 @@ Komandom terraform apply sam izvršio konfiguraciju:
 Resursi su kreirani. Na slici ispod to vidimo kao što vidimo i prethodno kreirane resurse preko CF-a.
 
 
+![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/2269aeac-b617-4bf0-b95a-fcc78f223121)
 
-![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/6b6bf024-4857-497e-b387-3b3659bbbeb3)
+
 
 
 Security grupe:
 
 
-![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/8ac6673b-5f73-471b-bf76-c2c2b8d70177)
+![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/de2b86a4-bdd7-4280-a704-198840faf378)
 
 
 
-![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/a58b0495-988c-4dbf-856c-cb717bb127ec)
+
+![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/d39fbaa1-c6ad-402e-a2c6-496aea1a18fb)
+
 
 
 
@@ -183,6 +186,13 @@ Ovaj playbook sam pokrenuo komandom:
 
 
 $ ansible-playbook nginx-playbook.yml
+
+
+![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/9690d402-a0b2-4aa9-a875-3d20ef156dd5)
+
+
+
+
 
 
 
