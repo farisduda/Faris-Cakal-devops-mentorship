@@ -55,6 +55,39 @@ Kroz AWS CloudFormation sam učitao ovaj template i kreiran je stack.
 
 
 
+![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/37e51960-6c09-4f7d-b209-45d437328ba1)
+
+
+
+![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/95dc0995-2a42-46bc-bfca-dedf0a1c9ac3)
+
+
+
+Stack:
+
+
+
+![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/746cc1c6-12b5-4bb7-aedc-83b23f0a3aa8)
+
+
+
+
+![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/bf6c24b4-6c74-4f03-8fbe-c4d71e632c4f)
+
+
+
+
+![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/73481e97-3c42-468a-a5bb-6def5a6f16e4)
+
+
+
+
+
+
+
+
+
+
 
 
 
