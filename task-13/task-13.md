@@ -43,6 +43,21 @@ sudo yum install -y apache-maven
 Maven comes with Java 7. For the build image that we're going to use later on we will need to use at least Java 8. 
 Therefore we are going to install Java 8, or more specifically Amazon Correto 8 , which is a free, production-ready distribution of the Open Java Development Kit (OpenJDK) provided by Amazon:
 
+sudo amazon-linux-extras enable corretto8
+
+sudo yum install -y java-1.8.0-amazon-corretto-devel
+
+
+
+![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/46a11673-abe4-4708-9c34-0e1099c603d8)
+
+
+
+Setup environmenta:
+
+export JAVA_HOME=/usr/lib/jvm/java-1.8.0-amazon-corretto.x86_64
+
+export PATH=/usr/lib/jvm/java-1.8.0-amazon-corretto.x86_64/jre/bin/:$PATH
 
 
 
