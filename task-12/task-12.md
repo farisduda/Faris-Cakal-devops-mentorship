@@ -128,7 +128,14 @@ Security grupe:
 
 4.) ANSIBLE
 
-Installing Ansible
+
+
+[Ansible] By using ansible provisioner install nginx web server on task-12-web-server-cf and task-12-web-server-tf instances.
+
+
+
+
+Instalacija Ansible-a
 
 
 Najprije trebamo sa sljedećom komandom da provjerimo da li je pip već instaliran za naš Python:
@@ -154,6 +161,30 @@ $ pip install ansible
 
 
 ![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/f1e8d041-6ce5-4203-9f54-857c9fb38a0f)
+
+
+
+
+Fajlovi ansible.cfg, inventory.ini i nginx-playbook.yml se nalaze u folderu task-12/ansible i tu se može vidjeti njihov sadržaj.
+
+
+Neophodno je da .pem fajl ne bude dostupan drugim korisnicima sa serveru, zbog sigurnosnih razloga, pa sam morao promijeniti permisije .pem fajla na način da su dostupni samo mom korisniku (0600 - samo read i write za ownera):
+
+$ chmod 600 rijad-poracanin-web-server-key.pem
+
+Fajl nginx-playbook.yml će instalirati Nginx paket, pokrenuće Nginx servis i omogućiti da bude startan i prilikom startanja servera. 
+
+Ovaj playbook sam pokrenuo komandom:
+
+
+$ ansible-playbook nginx-playbook.yml
+
+
+
+
+
+
+
 
 
 
