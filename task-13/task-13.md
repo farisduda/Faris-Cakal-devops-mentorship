@@ -124,7 +124,21 @@ In real-world scenarios this can be an important requirement to mitigate the ris
 Furthermore, it helps to ensure that packages, which your project depends on, and which are (accidentally, or on purpose) being removed from the public package repository, don't break the CI/CD pipeline (as they are still available via CodeArtifact in that case).
 
 Through AWS CodeArtifact service I created domain unicorns and I created repository unicorn-packages with maven-central-store as a public upstream.
-Then, through Cloud9 I connected to the CodeArtifact repository using connection instructions.
+Then, through Cloud9 I connected to the CodeArtifact repository using connection instructions from the lab description.
+
+Then i modified settings.xml file and after that run the command to compile application locally in my Cloud9 env.
+
+Command:  mvn -s settings.xml compile
+
+
+
+![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/15a9e512-83ba-4b87-a69d-49e5056eacbf)
+
+
+
+
+
+
 
 
 
