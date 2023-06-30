@@ -275,6 +275,7 @@ CodeDeploy uses these scripts to setup and deploy the application on the target 
 
 install_dependencies.sh
 
+
 #!/bin/bash
 sudo yum install tomcat -y
 sudo yum -y install httpd
@@ -292,6 +293,7 @@ EOF
 
 
 start_server.sh
+
 
 #!/bin/bash
 sudo systemctl start tomcat.service
@@ -315,6 +317,7 @@ fi
 
 
 CodeDeploy uses an application specification (AppSpec) file in YAML to specify what actions to take during a deployment, and to define which files from the source are placed where at the target destination. The AppSpec file must be named appspec.yml and placed in the root directory of the source code.
+
 
 version: 0.0
 os: linux
@@ -346,6 +349,8 @@ hooks:
     - scripts/**/*
   discard-paths: no
 
+
+All files you can find in task-13/LAB-4 folder
 
 
 Then commit all the changes to CodeCommit:
