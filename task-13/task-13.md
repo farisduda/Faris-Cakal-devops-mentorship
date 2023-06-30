@@ -364,7 +364,23 @@ Then commit all the changes to CodeCommit:
 Then log into the CodeBuild Console and click on Start build to run the unicorn-web-build project again which will include our newly added artifacts in the zip package.
 
 
+
 ![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/742c7d3c-cec4-4461-8ff4-1876d394d0e7)
+
+
+
+
+After thi sstep we need to create IAM role for CodeDeploy service.
+
+
+
+![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/153eeb9c-e8e7-4672-bb45-d57e78f2b232)
+
+
+
+
+
+
 
 
 
