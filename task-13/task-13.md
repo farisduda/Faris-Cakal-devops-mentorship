@@ -370,7 +370,7 @@ Then log into the CodeBuild Console and click on Start build to run the unicorn-
 
 
 
-After thi sstep we need to create IAM role for CodeDeploy service.
+After this step we need to create IAM role for CodeDeploy service.
 
 
 
