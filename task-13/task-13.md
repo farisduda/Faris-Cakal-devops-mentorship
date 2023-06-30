@@ -142,6 +142,8 @@ Command:  mvn -s settings.xml compile
 
 
 
+I define an IAM policy so that other services can consume our newly created CodeArtifact repository. I used JSON code from below:
+
 
 
 
