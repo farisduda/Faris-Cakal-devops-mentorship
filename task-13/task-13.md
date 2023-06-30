@@ -87,6 +87,13 @@ Imamo uspješan build aplikacije:
 Lab 1: AWS CodeCommit
 
 
+Log in to the AWS Console and search for the CodeCommit service and through CodeCommit service i created repository.
+
+
+
+
+
+
 
 
 
