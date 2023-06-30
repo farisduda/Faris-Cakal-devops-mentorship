@@ -230,6 +230,8 @@ artifacts:
 
 
 
+I modified auto-generated IAM role 'codebuild-unicorn-web-build-service-role' and added permissions to this role attaching 'codeartifact-unicorn-consumer-policy' policy.
+
 
 
 
