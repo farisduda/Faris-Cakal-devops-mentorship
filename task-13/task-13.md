@@ -386,6 +386,20 @@ Creating CodeDeploy application:
 
 
 
+Creating Deployment group:
+
+
+
+![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/ad36b3bf-0282-4128-bb18-f3b73b04ee8c)
+
+
+
+Creating Deployment:
+
+
+
+
+
 
 
 
