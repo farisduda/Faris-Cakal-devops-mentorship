@@ -91,6 +91,27 @@ Log in to the AWS Console and search for the CodeCommit service and through Code
 
 
 
+![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/b3575e19-6a7f-44b5-ab57-89962908159f)
+
+
+
+Then push my code from Cloud9 environment to this new repository.
+
+
+
+![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/6fa36c8e-cb3d-444b-a2ef-65257fe63c56)
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
