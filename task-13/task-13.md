@@ -257,6 +257,19 @@ You can use AWS CodeDeploy to automate software deployments, eliminating the nee
 In this lab, we will use CodeDeploy to install our Java WAR package onto an Amazon EC2 instance running Apache Tomcat.
 
 I have created an EC2 instance using CloudFormation.
+
+
+
+![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/b5444df0-9235-4bed-8680-2aa47dd99d78)
+
+
+
+
+![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/d98597ab-1c08-4776-8521-fb6a860050d4)
+
+
+
+
 Next, I have created some bash scripts in my Git repository. 
 CodeDeploy uses these scripts to setup and deploy the application on the target EC2 instance.
 
