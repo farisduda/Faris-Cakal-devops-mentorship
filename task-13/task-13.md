@@ -378,6 +378,20 @@ After this step we need to create IAM role for CodeDeploy service.
 
 
 
+Creating CodeDeploy application:
+
+
+
+![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/8dedbb93-cca5-4a22-a415-2220dd8174e4)
+
+
+
+
+
+
+
+
+
 
 
 
