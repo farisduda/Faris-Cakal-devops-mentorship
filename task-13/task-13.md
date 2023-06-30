@@ -233,6 +233,9 @@ artifacts:
 I modified auto-generated IAM role 'codebuild-unicorn-web-build-service-role' and added permissions to this role attaching 'codeartifact-unicorn-consumer-policy' policy.
 
 
+![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/5642062c-fc38-48b5-8186-4d5ceb0c0018)
+
+
 
 
 
