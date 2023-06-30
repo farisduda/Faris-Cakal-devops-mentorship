@@ -314,6 +314,44 @@ sudo systemctl stop tomcat.service
 fi
 
 
+CodeDeploy uses an application specification (AppSpec) file in YAML to specify what actions to take during a deployment, and to define which files from the source are placed where at the target destination. The AppSpec file must be named appspec.yml and placed in the root directory of the source code.
+
+version: 0.0
+os: linux
+files:
+  - source: /target/unicorn-web-project.war
+    destination: /usr/share/tomcat/webapps/
+hooks:
+  BeforeInstall:
+    - location: scripts/install_dependencies.sh
+      timeout: 300
+      runas: root
+  ApplicationStart:
+    - location: scripts/start_server.sh
+      timeout: 300
+      runas: root
+  ApplicationStop:
+    - location: scripts/stop_server.sh
+      timeout: 300
+      runas: root
+
+
+ I modified the artifacts section in the buildspec.yml like shown below:
+
+
+ artifacts:
+  files:
+    - target/unicorn-web-project.war
+    - appspec.yml
+    - scripts/**/*
+  discard-paths: no
+
+
+
+Then commit all the changes to CodeCommit:
+
+
+  
 
 ![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/271b502d-366f-4685-82b9-07d20a304895)
 
