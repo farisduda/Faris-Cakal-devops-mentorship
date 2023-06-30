@@ -159,6 +159,37 @@ I define an IAM policy so that other services can consume our newly created Code
 
 
 
+Lab 3: AWS CodeBuild
+
+
+AWS CodeBuild is a fully managed continuous integration service that compiles source code, runs tests, and produces software packages that are ready to deploy. 
+
+You can get started quickly with prepackaged build environments, or you can create custom build environments that use your own build tools.
+
+In this lab we will setup a CodeBuild project to package our application code into a Java Web Application Archive (WAR) file.
+
+
+Create an S3 bucket
+
+We first need to create an S3 bucket which will be used to store the output from CodeBuild i.e. our WAR file!
+
+I created Bucket and give the bucket a unique name: unicorn-build-artifacts-1978.
+
+
+![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/dfd41881-5051-4829-a801-fb8f7fdf1791)
+
+
+
+Then i have created CodeBuild project:
+
+
+
+![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/e14e5306-a957-4355-8321-d6dc594b176f)
+
+
+
+Now we have our build project setup we need to give it some instructions on how to build our application. To do this we will create a buildspec.yml file
+
 
 
 
