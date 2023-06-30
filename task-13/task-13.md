@@ -137,6 +137,12 @@ Command:  mvn -s settings.xml compile
 
 
 
+![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/25bc23d8-8eec-4b54-9460-79527464dc75)
+
+
+
+
+
 
 
 
