@@ -223,7 +223,12 @@ artifacts:
   discard-paths: no
 
 
-  
+  Then commit and push it to CodeCommit.
+
+
+![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/d38872d6-83ac-4bf1-9889-dc3e90180129)
+
+
 
 
 
