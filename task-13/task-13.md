@@ -273,5 +273,48 @@ I have created an EC2 instance using CloudFormation.
 Next, I have created some bash scripts in my Git repository. 
 CodeDeploy uses these scripts to setup and deploy the application on the target EC2 instance.
 
+install_dependencies.sh
+
+#!/bin/bash
+sudo yum install tomcat -y
+sudo yum -y install httpd
+sudo cat << EOF > /etc/httpd/conf.d/tomcat_manager.conf
+<VirtualHost *:80>
+    ServerAdmin root@localhost
+    ServerName app.wildrydes.com
+    DefaultType text/html
+    ProxyRequests off
+    ProxyPreserveHost On
+    ProxyPass / http://localhost:8080/unicorn-web-project/
+    ProxyPassReverse / http://localhost:8080/unicorn-web-project/
+</VirtualHost>
+EOF
+
+
+start_server.sh
+
+#!/bin/bash
+sudo systemctl start tomcat.service
+sudo systemctl enable tomcat.service
+sudo systemctl start httpd.service
+sudo systemctl enable httpd.service
+
+
+stop_server.sh
+
+
+#!/bin/bash
+isExistApp="$(pgrep httpd)"
+if [[ -n $isExistApp ]]; then
+sudo systemctl stop httpd.service
+fi
+isExistApp="$(pgrep tomcat)"
+if [[ -n $isExistApp ]]; then
+sudo systemctl stop tomcat.service
+fi
+
+
+
+![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/271b502d-366f-4685-82b9-07d20a304895)
 
 
