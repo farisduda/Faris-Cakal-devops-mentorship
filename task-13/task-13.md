@@ -357,7 +357,21 @@ Then commit all the changes to CodeCommit:
 
 
   
-
 ![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/271b502d-366f-4685-82b9-07d20a304895)
+
+
+
+Then log into the CodeBuild Console and click on Start build to run the unicorn-web-build project again which will include our newly added artifacts in the zip package.
+
+
+![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/742c7d3c-cec4-4461-8ff4-1876d394d0e7)
+
+
+
+
+
+
+
+
 
 
