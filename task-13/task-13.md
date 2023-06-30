@@ -248,3 +248,17 @@ After that I tested the build project by clicking on the 'Start build' button, i
 ![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/0739824e-8e6d-4a9b-938d-4fb54664fbb3)
 
 
+
+Lab 4: AWS CodeDeploy
+
+AWS CodeDeploy is a fully managed deployment service that automates software deployments to a variety of compute services such as Amazon EC2, AWS Fargate, AWS Lambda, and even on-premise services. 
+You can use AWS CodeDeploy to automate software deployments, eliminating the need for error-prone manual operations.
+
+In this lab, we will use CodeDeploy to install our Java WAR package onto an Amazon EC2 instance running Apache Tomcat.
+
+I have created an EC2 instance using CloudFormation.
+Next, I have created some bash scripts in my Git repository. 
+CodeDeploy uses these scripts to setup and deploy the application on the target EC2 instance.
+
+
+
