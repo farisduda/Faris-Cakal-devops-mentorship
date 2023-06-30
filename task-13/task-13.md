@@ -104,9 +104,27 @@ Then push my code from Cloud9 environment to this new repository.
 
 
 
+![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/ea394b78-2f7d-42a3-8d9a-2020e82d9d27)
 
 
 
+
+Lab 2: AWS CodeArtifact
+
+
+AWS CodeArtifact is a fully managed artifact repository service that makes it easy for organizations of any size to securely fetch, store, publish, and share software packages used in their software development process.
+
+In this lab we will setup a CodeArtifact repository that we will be using during the build phase with CodeBuild to fetch Maven packages from a public package repository (the "Maven Central Repository"). 
+Using CodeArtifact rather than the public repository directly has several advantages, including improved security, as you can strictly define which packages can be used. To see other advantages of using CodeArtifact, please refer to the AWS CodeArtifact features web page.
+
+Within this workshop, we will use CodeArtifact as a simple package cache. 
+This way, even if the public package repository would become unavailable, we could still build our application.
+In real-world scenarios this can be an important requirement to mitigate the risk that an outage of the public repository can break the complete CI/CD pipeline.
+
+Furthermore, it helps to ensure that packages, which your project depends on, and which are (accidentally, or on purpose) being removed from the public package repository, don't break the CI/CD pipeline (as they are still available via CodeArtifact in that case).
+
+Through AWS CodeArtifact service I created domain unicorns and I created repository unicorn-packages with maven-central-store as a public upstream.
+Then, through Cloud9 I connected to the CodeArtifact repository using connection instructions.
 
 
 
