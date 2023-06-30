@@ -237,6 +237,8 @@ I modified auto-generated IAM role 'codebuild-unicorn-web-build-service-role' an
 
 
 
+After that I tested the build project by clicking on the 'Start build' button, inside CodeBuild service.
+
 
 
 
