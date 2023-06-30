@@ -241,8 +241,10 @@ After that I tested the build project by clicking on the 'Start build' button, i
 
 
 
+![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/f66d7aad-4a1c-494f-a178-fb527098b523)
 
 
 
+![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/0739824e-8e6d-4a9b-938d-4fb54664fbb3)
 
 
