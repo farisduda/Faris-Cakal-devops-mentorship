@@ -22,7 +22,7 @@ AWS Cloud9 IDE:
 ![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/87ab78f6-31fd-4c2e-b05f-71484ea431c8)
 
 
-Install Maven & JavaHeader anchor link
+Install Maven & Java
 
 Apache Maven  is a build automation tool used for Java projects. In this workshop we will use Maven to help initialize our sample application and package it into a Web Application Archive (WAR) file.
 
@@ -199,7 +199,7 @@ phases:
 
   install:
     runtime-versions:
-      java: corretto8
+      java: corretto17
  
   pre_build:
     commands:
