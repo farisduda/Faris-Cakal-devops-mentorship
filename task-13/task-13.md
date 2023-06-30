@@ -188,9 +188,36 @@ Then i have created CodeBuild project:
 
 
 
-Now we have our build project setup we need to give it some instructions on how to build our application. To do this we will create a buildspec.yml file
+Now we have our build project setup we need to give it some instructions on how to build our application. 
+
+To do this we will create a buildspec.yml file:
 
 
+version: 0.2
+
+phases:
+  install:
+    runtime-versions:
+      java: corretto8
+  pre_build:
+    commands:
+      - echo Initializing environment
+      - export CODEARTIFACT_AUTH_TOKEN=`aws codeartifact get-authorization-token --domain unicorns --domain-owner 103654481432 --query authorizationToken --output text`
+  build:
+    commands:
+      - echo Build started on `date`
+      - mvn -s settings.xml compile
+  post_build:
+    commands:
+      - echo Build completed on `date`
+      - mvn -s settings.xml package
+artifacts:
+  files:
+    - target/unicorn-web-project.war
+  discard-paths: no
+
+
+  
 
 
 
