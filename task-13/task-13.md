@@ -152,6 +152,7 @@ I define an IAM policy so that other services can consume our newly created Code
 
 
 
+![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/f1fc83e5-3a83-483c-918b-bf9d6c5eacdf)
 
 
 
