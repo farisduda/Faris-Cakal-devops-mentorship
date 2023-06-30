@@ -350,7 +350,7 @@ hooks:
   discard-paths: no
 
 
-All files you can find in task-13/LAB-4 folder
+All files you can find in task-13/LAB-4 folder on my git repo.
 
 
 Then commit all the changes to CodeCommit:
