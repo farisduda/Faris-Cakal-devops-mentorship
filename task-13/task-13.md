@@ -399,6 +399,19 @@ Creating Deployment:
 
 
 
+![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/54838330-1a17-4616-8e5b-b3d92430e5ae)
+
+
+
+
+
+![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/467445b8-ed9e-4fe8-a094-918234e88d86)
+
+
+
+
+
+
 
 
 
