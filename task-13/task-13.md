@@ -462,16 +462,22 @@ In this lab we will look at extending our existing CodePipeline to include a man
 
 I have updated CloudFormation template, and then added additional CodeDeploy deployment group.
 
+Our current pipeline looks like this:
+
+
+
+
+![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/2e1d6444-0e8c-4273-9655-21529fb1a48b)
 
 
 
 
 
+At the end of the lab the pipeline will look like this:
 
 
 
-
-
+![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/b3883420-96f6-4103-96f1-f38aebdd4c53)
 
 
 
