@@ -501,10 +501,30 @@ Create SNS topic
 
 
 
+I updated CodePipeline with additional stages.
+
+
+
+![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/954377fb-c698-49e9-ac2f-542f5bd91dbf)
+
+
+
+I tested this by clicking on Release changes and wait for the pipeline to reach the manual approval stage and then I received an email with an approval link.
+
+When I approved, it proceed to the next stage production CodeDeploy and completed successfully.
+
+
+
+![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/8d0e481f-97ff-4a70-afe2-f37706cde8f4)
+
+
+
+Finally we have webpage deployed with extended CodePipeline by an approval stage and deployprod stage that separates development and production deployments.
 
 
 
 
+![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/7bbdff81-569b-48a5-9d0c-6d832beb3d33)
 
 
 
