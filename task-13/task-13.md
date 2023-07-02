@@ -418,6 +418,39 @@ In this lab we use CodePipeline to create an automated pipeline using the CodeCo
 
 
 
+![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/675c4c74-e89c-41b5-9cc9-6d206e09a6ea)
+
+
+
+
+
+Now I have a fully managed CI/CD pipeline! Let's test if everything is working.
+I have changed html code inside index.jsp file and I pushed these changes to the CodeCommit repository. 
+The pipeline was triggered by the push automatically and pipeline completed successfully.
+
+New CodePipeline:
+
+
+
+![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/e2b33fd5-bc48-41dc-ab3f-8dc9acbab3d3)
+
+
+
+WildRydes webpage:
+
+
+
+
+![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/bb20cf84-438d-4303-a5d6-2806ac78ef59)
+
+
+
+
+
+
+
+
+
 
 
 
