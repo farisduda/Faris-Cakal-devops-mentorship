@@ -426,6 +426,16 @@ In this lab we use CodePipeline to create an automated pipeline using the CodeCo
 
 Now I have a fully managed CI/CD pipeline! Let's test if everything is working.
 I have changed html code inside index.jsp file and I pushed these changes to the CodeCommit repository. 
+Also i added images folder under folder src/main/webapp on Cloud9 under unicorn-web-project and put the downloaded image in to that same folder.
+
+
+
+![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/e60cb123-51af-4f22-bd95-6258da2e1127)
+
+
+
+
+
 The pipeline was triggered by the push automatically and pipeline completed successfully.
 
 New CodePipeline:
@@ -444,6 +454,13 @@ WildRydes webpage:
 ![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/bb20cf84-438d-4303-a5d6-2806ac78ef59)
 
 
+
+
+Extending the pipeline
+
+In this lab we will look at extending our existing CodePipeline to include a manual approval step before deploying to a production server.
+
+I have updated CloudFormation template, and then added additional CodeDeploy deployment group.
 
 
 
