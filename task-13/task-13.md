@@ -496,6 +496,10 @@ Create SNS topic
 
 
 
+![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/a65ef317-68af-47c5-8fd9-cb3a9e7a34e4)
+
+
+
 
 
 
