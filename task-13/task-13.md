@@ -460,7 +460,6 @@ Extending the pipeline
 
 In this lab we will look at extending our existing CodePipeline to include a manual approval step before deploying to a production server.
 
-I have updated CloudFormation template, and then added additional CodeDeploy deployment group.
 
 Our current pipeline looks like this:
 
@@ -478,6 +477,21 @@ At the end of the lab the pipeline will look like this:
 
 
 ![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/b3883420-96f6-4103-96f1-f38aebdd4c53)
+
+
+
+
+I have updated CloudFormation template, and then added additional CodeDeploy deployment group.
+
+
+
+
+![image](https://github.com/farisduda/Faris-Cakal-devops-mentorship/assets/39408064/d212b442-21a2-4fb1-8962-2a03ddfd38e3)
+
+
+
+
+Create SNS topic
 
 
 
